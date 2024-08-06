@@ -1,3 +1,13 @@
+# RavenM Local Mods
+
+It's just a simple fork of RavenM that allows you to use locally installed mods instead of mods from Steam Workshop.
+
+## This fork was made by very rough removal of some files and lines of code from original repo. Therefore it may have some flaws not occuring in the original mod.
+
+Original README bellow:
+
+--------------------------------------------------------------------------------
+
 # RavenM
 
 --------------------------------------------------------------------------------
